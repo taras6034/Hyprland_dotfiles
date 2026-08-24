@@ -1,0 +1,6 @@
+2026/08/23-13:56:54.350 5a0 Reusing MANIFEST /home/gegardrag/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/23-13:56:54.351 5a0 Recovering log #3
+2026/08/23-13:56:54.451 5a0 Reusing old log /home/gegardrag/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/000003.log 
+2026/08/23-14:20:45.103 63f Level-0 table #5: started
+2026/08/23-14:20:45.188 63f Level-0 table #5: 1207400 bytes OK
+2026/08/23-14:20:45.196 63f Delete type=0 #3
