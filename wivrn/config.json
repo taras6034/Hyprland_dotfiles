@@ -1,0 +1,7 @@
+{
+  "debug-gui": false,
+  "hid-forwarding": false,
+  "lh-stick-deadzone": 0.0,
+  "openvr-compat-path": "/opt/xrizer",
+  "use-steamvr-lh": false
+}

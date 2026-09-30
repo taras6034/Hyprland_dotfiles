@@ -1,0 +1,18 @@
+/mozilla/
+/discord/
+/unity3d/
+**/discord*
+**/discord_voice/
+**/discord/
+**/*.log
+**/Kerbal Space Program/
+**/vesktop/
+**/Cache/
+**/discord*/
+**/vesktop/
+**/YandexMusic/
+**/unity3d/
+**/*.log
+**/*.node
+**/*.ldb
+

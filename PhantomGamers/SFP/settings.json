@@ -1,0 +1,30 @@
+{
+  "userSettings": {
+    "roaming": {
+      "SFP.Properties.Settings": {
+        "AppTheme": "Dark",
+        "CheckForUpdates": "True",
+        "CloseToTray": "False",
+        "DummySetting": "True",
+        "DumpPages": "False",
+        "ForceSteamArgs": "True",
+        "InitialInjectionDelay": "0",
+        "InjectCSS": "True",
+        "InjectJS": "False",
+        "InjectJSWarningAccepted": "False",
+        "InjectOnAppStart": "True",
+        "InjectOnSteamStart": "True",
+        "MinimizeToTray": "False",
+        "RunOnBoot": "False",
+        "RunSteamOnStart": "True",
+        "SelectedSkin": "steamui",
+        "ShowTrayIcon": "True",
+        "StartMinimized": "False",
+        "SteamCefPort": "8080",
+        "SteamDirectory": "",
+        "SteamLaunchArgs": "-cef-enable-debugging",
+        "UseAppTheme": "True"
+      }
+    }
+  }
+}

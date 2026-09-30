@@ -1,0 +1,40 @@
+token: y0__wgBEJ3B0fgGGN74BiDZ2qD3GNYHh4_Qx7uhtA9sFBVTI2CmPpZ9
+buffer-size-ms: 80
+rewind-duration-s: 5
+volume: 0.4499999999999996
+volume-step: 0.05
+suppress-errors: false
+show-lyrics: true
+cache-tracks: likes
+cache-dir: ""
+search:
+    artists: true
+    albums: true
+    playlists: false
+controls:
+    quit: ctrl+q,ctrl+c
+    apply: enter
+    cancel: esc
+    cursor-up: up
+    cursor-down: down
+    reload: ctrl+\
+    show-all-kyes: '?'
+    playlists-up: ctrl+up
+    playlists-down: ctrl+down
+    playlists-rename: ctrl+r
+    tracks-like: l
+    tracks-add-to-playlist: a
+    tracks-remove-from-playlist: ctrl+a
+    tracks-share: ctrl+s
+    tracks-shuffle: ctrl+x
+    tracks-search: ctrl+f
+    player-pause: ' '
+    player-next: right
+    player-previous: left
+    player-rewind-forward: ctrl+right
+    player-rewind-backward: ctrl+left
+    player-like: L
+    player-cache: S
+    player-vol-up: +,=
+    player-vol-down: '-'
+    player-toggle-lyrics: t

@@ -1,0 +1,15 @@
+[2026-09-03 22:43:52.673] [warn]  (main)         [Gofile] Failed to discover WT script URL TypeError: fetch failed
+[2026-09-03 22:44:03.164] [warn]  (main)         [Gofile] Failed to load WT script from https://gofile.io/js/wt.obf.js TypeError: fetch failed
+[2026-09-03 22:44:13.668] [warn]  (main)         [Gofile] Failed to load WT script from https://gofile.io/dist/js/wt.obf.js TypeError: fetch failed
+[2026-09-05 23:35:38.400] [warn]  (main)         [Gofile] Failed to discover WT script URL TypeError: fetch failed
+[2026-09-05 23:35:48.889] [warn]  (main)         [Gofile] Failed to load WT script from https://gofile.io/js/wt.obf.js TypeError: fetch failed
+[2026-09-05 23:35:49.393] [warn]  (main)         [Gofile] Failed to load WT script from https://gofile.io/dist/js/wt.obf.js Error: Failed to load Gofile WT script: 404
+    at GofileApi.fetchWebsiteTokenScript (file:///opt/Hydra/resources/app.asar/out/main/index.js:12769:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///opt/Hydra/resources/app.asar/out/main/index.js:12795:57
+    at async GofileApi.generateWebsiteToken (file:///opt/Hydra/resources/app.asar/out/main/index.js:12813:32)
+    at async GofileApi.createGuestToken (file:///opt/Hydra/resources/app.asar/out/main/index.js:12870:26)
+    at async file:///opt/Hydra/resources/app.asar/out/main/index.js:12922:21
+[2026-09-24 19:02:25.922] [warn]  (main)         [Gofile] Failed to discover WT script URL TypeError: fetch failed
+[2026-09-24 19:02:36.447] [warn]  (main)         [Gofile] Failed to load WT script from https://gofile.io/js/wt.obf.js TypeError: fetch failed
+[2026-09-24 19:02:46.956] [warn]  (main)         [Gofile] Failed to load WT script from https://gofile.io/dist/js/wt.obf.js TypeError: fetch failed

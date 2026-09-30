@@ -1,0 +1,75 @@
+[2026-09-03 22:44:13.669] [error] (main)         [Gofile] Failed to initialize guest token TypeError: fetch failed
+[2026-09-03 22:48:28.363] [error] (main)         Failed to load app state during startup Error: Database is not open
+    at assertOpen (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:878:11)
+    at AbstractSublevel.clear (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:715:5)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:712:41
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:830:14
+    at DeferredQueue.drain (/opt/Hydra/resources/app.asar/node_modules/abstract-level/lib/deferred-queue.js:59:20)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:174:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async AbstractSublevel.open (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:231:9)
+[2026-09-03 22:48:38.948] [error] (main)         Failed to load app state during startup Error: Database is not open
+    at assertOpen (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:878:11)
+    at AbstractSublevel.clear (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:715:5)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:712:41
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:830:14
+    at DeferredQueue.drain (/opt/Hydra/resources/app.asar/node_modules/abstract-level/lib/deferred-queue.js:59:20)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:174:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async AbstractSublevel.open (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:231:9)
+[2026-09-03 22:48:48.038] [error] (main)         Failed to load app state during startup Error: Database is not open
+    at assertOpen (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:878:11)
+    at AbstractSublevel.clear (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:715:5)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:712:41
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:830:14
+    at DeferredQueue.drain (/opt/Hydra/resources/app.asar/node_modules/abstract-level/lib/deferred-queue.js:59:20)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:174:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async AbstractSublevel.open (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:231:9)
+[2026-09-03 22:49:23.956] [error] (main)         Error on getSteamAppDetails { message: 'read ECONNRESET', code: 'ECONNRESET', name: 'Error' }
+[2026-09-03 22:49:26.922] [error] (main)         Failed to load app state during startup Error: Database is not open
+    at assertOpen (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:878:11)
+    at AbstractSublevel.clear (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:715:5)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:712:41
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:830:14
+    at DeferredQueue.drain (/opt/Hydra/resources/app.asar/node_modules/abstract-level/lib/deferred-queue.js:59:20)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:174:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async AbstractSublevel.open (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:231:9)
+[2026-09-03 22:49:37.091] [error] (main)         Failed to load app state during startup Error: Database is not open
+    at assertOpen (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:878:11)
+    at AbstractSublevel.clear (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:715:5)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:712:41
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:830:14
+    at DeferredQueue.drain (/opt/Hydra/resources/app.asar/node_modules/abstract-level/lib/deferred-queue.js:59:20)
+    at /opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:174:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async AbstractSublevel.open (/opt/Hydra/resources/app.asar/node_modules/abstract-level/abstract-level.js:231:9)
+[2026-09-05 23:35:27.859] [error] (main)         Unexpected error while getting download sources check baseline TypeError: Cannot read properties of undefined (reading 'replaceAll')
+    at getDownloadSourcesCheckBaseline (file:///opt/Hydra/resources/app.asar/out/main/index.js:443:26)
+    at async DownloadSourcesChecker.checkForChanges (file:///opt/Hydra/resources/app.asar/out/main/index.js:36267:38)
+    at async file:///opt/Hydra/resources/app.asar/out/main/index.js:38291:13
+[2026-09-05 23:35:27.865] [error] (main)         Failed to check download sources changes: UserNotLoggedInError: user not logged in
+    at HydraApi.validateOptions (file:///opt/Hydra/resources/app.asar/out/main/index.js:34446:37)
+    at HydraApi.post (file:///opt/Hydra/resources/app.asar/out/main/index.js:34500:16)
+    at HydraApi.checkDownloadSourcesChanges (file:///opt/Hydra/resources/app.asar/out/main/index.js:34546:33)
+    at DownloadSourcesChecker.checkForChanges (file:///opt/Hydra/resources/app.asar/out/main/index.js:36281:45)
+    at async file:///opt/Hydra/resources/app.asar/out/main/index.js:38291:13
+[2026-09-05 23:35:49.393] [error] (main)         [Gofile] Failed to initialize guest token Error: Failed to load Gofile WT script: 404
+    at GofileApi.fetchWebsiteTokenScript (file:///opt/Hydra/resources/app.asar/out/main/index.js:12769:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///opt/Hydra/resources/app.asar/out/main/index.js:12795:57
+    at async GofileApi.generateWebsiteToken (file:///opt/Hydra/resources/app.asar/out/main/index.js:12813:32)
+    at async GofileApi.createGuestToken (file:///opt/Hydra/resources/app.asar/out/main/index.js:12870:26)
+    at async file:///opt/Hydra/resources/app.asar/out/main/index.js:12922:21
+[2026-09-24 19:02:15.142] [error] (main)         Unexpected error while getting download sources check baseline TypeError: Cannot read properties of undefined (reading 'replaceAll')
+    at getDownloadSourcesCheckBaseline (file:///opt/Hydra/resources/app.asar/out/main/index.js:458:26)
+    at async DownloadSourcesChecker.checkForChanges (file:///opt/Hydra/resources/app.asar/out/main/index.js:38645:38)
+    at async file:///opt/Hydra/resources/app.asar/out/main/index.js:40669:13
+[2026-09-24 19:02:15.153] [error] (main)         Failed to check download sources changes: UserNotLoggedInError: user not logged in
+    at HydraApi.validateOptions (file:///opt/Hydra/resources/app.asar/out/main/index.js:36824:37)
+    at HydraApi.post (file:///opt/Hydra/resources/app.asar/out/main/index.js:36878:16)
+    at HydraApi.checkDownloadSourcesChanges (file:///opt/Hydra/resources/app.asar/out/main/index.js:36924:33)
+    at DownloadSourcesChecker.checkForChanges (file:///opt/Hydra/resources/app.asar/out/main/index.js:38659:45)
+    at async file:///opt/Hydra/resources/app.asar/out/main/index.js:40669:13
+[2026-09-24 19:02:46.956] [error] (main)         [Gofile] Failed to initialize guest token TypeError: fetch failed

@@ -1,0 +1,5 @@
+2026/08/29-00:41:58.001 8fc Creating DB /home/gegardrag/.config/heroic/Partitions/gog/Local Storage/leveldb since it was missing.
+2026/08/29-00:41:58.005 8fc Reusing MANIFEST /home/gegardrag/.config/heroic/Partitions/gog/Local Storage/leveldb/MANIFEST-000001
+2026/08/29-00:42:05.808 8fb Level-0 table #5: started
+2026/08/29-00:42:05.889 8fb Level-0 table #5: 20096 bytes OK
+2026/08/29-00:42:05.889 8fb Delete type=0 #3

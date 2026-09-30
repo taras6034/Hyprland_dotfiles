@@ -1,0 +1,23 @@
+# steamfetch configuration file
+# https://github.com/unhappychoice/steamfetch
+
+[api]
+# Get your API key at: https://steamcommunity.com/dev/apikey
+# steam_api_key = "YOUR_API_KEY"
+
+# Find your Steam ID at: https://steamid.io
+# Note: If Steam is running, STEAM_ID is auto-detected
+# steam_id = "YOUR_STEAM_ID"
+
+[display]
+# Number of top played games to show
+# show_top_games = 5
+
+# Show recently played games (last 2 weeks)
+# show_recently_played = true
+
+# Show achievement statistics
+# show_achievements = true
+
+# Show rarest achievement
+# show_rarest = true

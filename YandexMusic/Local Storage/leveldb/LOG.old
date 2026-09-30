@@ -1,0 +1,6 @@
+2026/09/29-22:59:05.603 2f72a Reusing MANIFEST /home/gegardrag/.config/YandexMusic/Local Storage/leveldb/MANIFEST-000001
+2026/09/29-22:59:05.604 2f72a Recovering log #103
+2026/09/29-22:59:05.604 2f72a Reusing old log /home/gegardrag/.config/YandexMusic/Local Storage/leveldb/000103.log 
+2026/09/29-23:01:06.816 2f701 Level-0 table #107: started
+2026/09/29-23:01:06.854 2f701 Level-0 table #107: 11248 bytes OK
+2026/09/29-23:01:06.854 2f701 Delete type=0 #103

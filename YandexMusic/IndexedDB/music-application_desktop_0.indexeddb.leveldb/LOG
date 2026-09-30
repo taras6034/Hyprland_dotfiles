@@ -1,0 +1,12 @@
+2026/09/30-11:02:13.859 b61 Reusing MANIFEST /home/gegardrag/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/30-11:02:13.860 b61 Recovering log #62
+2026/09/30-11:02:13.871 b61 Reusing old log /home/gegardrag/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/000062.log 
+2026/09/30-12:59:47.361 b8f Level-0 table #67: started
+2026/09/30-12:59:47.377 b8f Level-0 table #67: 1198321 bytes OK
+2026/09/30-12:59:47.378 b8f Delete type=0 #62
+2026/09/30-13:01:38.392 b61 Compacting 1@1 + 1@2 files
+2026/09/30-13:01:38.410 b61 Generated table #68@1: 15255 keys, 366274 bytes
+2026/09/30-13:01:38.410 b61 Compacted 1@1 + 1@2 files => 366274 bytes
+2026/09/30-13:01:38.411 b61 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/09/30-13:01:38.411 b61 Delete type=2 #67
+2026/09/30-13:01:38.411 b61 Delete type=2 #64

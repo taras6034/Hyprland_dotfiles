@@ -1,0 +1,16 @@
+{
+  "config": [
+    "/home/gegardrag/.local/share/Steam/config"
+  ],
+  "external_drivers": [
+    "/usr/lib64/alvr"
+  ],
+  "jsonid": "vrpathreg",
+  "log": [
+    "/home/gegardrag/.local/share/Steam/logs"
+  ],
+  "runtime": [
+    "/home/gegardrag/.local/share/Steam/steamapps/common/SteamVR"
+  ],
+  "version": 1
+}
