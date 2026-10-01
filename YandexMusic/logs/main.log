@@ -7654,3 +7654,272 @@
 [30.09.2026, 15:07:33,713] [info] (AppSuspension) App suspension blocker is disabled
 [30.09.2026, 15:18:54,104] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
 [30.09.2026, 15:18:54,105] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 15:24:57,660] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 15:24:57,660] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:24:57,875] [info] (Events) Event received desktop:player:state undefined false undefined
+[30.09.2026, 15:24:57,876] [info] (Events) Event received desktop:player:state undefined undefined true
+[30.09.2026, 15:24:58,066] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 15:24:58,066] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:24:58,290] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 15:24:58,290] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:24:58,375] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 15:24:58,375] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:24:58,375] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 15:24:59,271] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 15:24:59,271] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:25:39,190] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 15:25:39,190] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:25:39,190] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 15:25:43,313] [info] (Events) Event received desktop:player:state undefined true undefined
+[30.09.2026, 15:25:43,315] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 15:25:43,316] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:32:14,071] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 15:32:14,071] [info] (UpdateLogger) Updater is inactive
+[30.09.2026, 15:36:54,008] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 15:36:54,012] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 15:46:56,482] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 15:46:56,484] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:46:56,485] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 15:46:57,124] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 15:46:57,125] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:46:57,507] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 15:46:57,508] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 15:46:57,508] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 15:46:58,742] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 15:46:58,743] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 19:26:18,966] [info] (CertificateVerification) certificate verification installed { sessionName: 'chromium' }
+[30.09.2026, 19:26:18,979] [info] (CertificateVerification) certificate verification installed { sessionName: 'updater' }
+[30.09.2026, 19:26:19,062] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"attempt-start","trigger":"app-start"}
+[30.09.2026, 19:26:19,308] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'chromium' }
+[30.09.2026, 19:26:19,312] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'updater' }
+[30.09.2026, 19:26:19,312] [info] (CertificateVerification) certificate transparency log list updated { version: '1.235', timestampMs: 1790201056000 }
+[30.09.2026, 19:26:19,318] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'chromium' }
+[30.09.2026, 19:26:19,321] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'updater' }
+[30.09.2026, 19:26:19,321] [info] (CertificateVerification) certificate transparency log list updated { version: '1.235', timestampMs: 1790201056000 }
+[30.09.2026, 19:26:20,626] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 19:26:20,627] [info] (UpdateLogger) Updater is inactive
+[30.09.2026, 19:26:20,641] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 7075,
+    "totalMB": 15850
+  },
+  "storage": {
+    "freeMB": 365080,
+    "totalMB": 958314
+  }
+}
+[30.09.2026, 19:26:20,665] [info] (IpcSecurity) Event sent desktop:application:refresh-data
+[30.09.2026, 19:26:20,809] [info] (Events) Event received desktop:authorization:get-passport-login
+[30.09.2026, 19:26:20,812] [info] (Events) Event received desktop:authorization:get-yandex-uid
+[30.09.2026, 19:26:20,814] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"passport-state-read","sessionId":"present","passportLogin":"present","cookieCount":1,"canonicalCookieCount":1}
+[30.09.2026, 19:26:20,857] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"authorization-decision","page":"product","token":"present","passportLogin":"present","tokenOwnerLogin":"missing","loginComparison":"unavailable","decision":"continue"}
+[30.09.2026, 19:26:20,979] [info] (Events) Event received desktop:application:ready
+[30.09.2026, 19:26:20,982] [info] (IpcSecurity) Event sent desktop:application:probability-bucket
+[30.09.2026, 19:26:20,988] [info] (Events) Event received desktop:application:theme
+[30.09.2026, 19:26:21,191] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"account-about","result":"authorized"}
+[30.09.2026, 19:26:21,193] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"authorization-decision","page":"product","token":"present","passportLogin":"present","tokenOwnerLogin":"present","loginComparison":"match","decision":"continue"}
+[30.09.2026, 19:26:21,354] [info] (Common) Request to https://desktop.app.music.yandex.net/stable/release-notes/en.json completed with status:  200
+[30.09.2026, 19:26:21,360] [info] (IpcSecurity) Event sent desktop:application:load-release-notes
+[30.09.2026, 19:26:22,291] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 19:26:22,932] [info] (Events) Event received desktop:player:state undefined false undefined
+[30.09.2026, 19:26:22,936] [info] (Events) Event received desktop:player:state undefined undefined false
+[30.09.2026, 19:26:23,613] [info] (Events) Event received desktop:player:state undefined undefined true
+[30.09.2026, 19:26:23,815] [info] (Events) Event received desktop:player:state undefined true undefined
+[30.09.2026, 19:30:58,082] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 19:30:58,089] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 19:48:58,106] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 19:48:58,107] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 19:56:20,711] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 19:56:20,712] [info] (UpdateLogger) Updater is inactive
+[30.09.2026, 20:03:30,518] [info] (IpcSecurity) Event sent desktop:application:refresh-data
+[30.09.2026, 20:06:58,105] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 20:06:58,106] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 20:24:58,105] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 20:24:58,142] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 20:26:20,791] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 20:26:20,791] [info] (UpdateLogger) Updater is inactive
+[30.09.2026, 20:42:58,105] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 20:42:58,142] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 20:56:20,855] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 20:56:20,855] [info] (UpdateLogger) Updater is inactive
+[30.09.2026, 21:00:58,048] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 21:00:58,049] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 21:18:58,105] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 21:18:58,106] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 21:26:20,927] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 21:26:20,927] [info] (UpdateLogger) Updater is inactive
+[30.09.2026, 21:32:43,592] [info] (IpcSecurity) Event sent desktop:application:refresh-data
+[30.09.2026, 21:36:58,105] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 21:36:58,142] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 21:54:58,106] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 21:54:58,125] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 21:56:21,010] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 21:56:21,011] [info] (UpdateLogger) Updater is inactive
+[30.09.2026, 22:12:58,105] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 22:12:58,114] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 22:26:21,093] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 22:26:21,093] [info] (UpdateLogger) Updater is inactive
+[30.09.2026, 22:30:58,104] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 22:30:58,105] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 22:35:46,744] [info] (IpcSecurity) Event sent desktop:application:refresh-data
+[30.09.2026, 22:42:55,873] [info] (CertificateVerification) certificate verification installed { sessionName: 'chromium' }
+[30.09.2026, 22:42:55,889] [info] (CertificateVerification) certificate verification installed { sessionName: 'updater' }
+[30.09.2026, 22:42:55,959] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"attempt-start","trigger":"app-start"}
+[30.09.2026, 22:42:56,194] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'chromium' }
+[30.09.2026, 22:42:56,198] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'updater' }
+[30.09.2026, 22:42:56,198] [info] (CertificateVerification) certificate transparency log list updated { version: '1.235', timestampMs: 1790201056000 }
+[30.09.2026, 22:42:56,203] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'chromium' }
+[30.09.2026, 22:42:56,207] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'updater' }
+[30.09.2026, 22:42:56,208] [info] (CertificateVerification) certificate transparency log list updated { version: '1.235', timestampMs: 1790201056000 }
+[30.09.2026, 22:42:57,380] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 22:42:57,381] [info] (UpdateLogger) Updater is inactive
+[30.09.2026, 22:42:57,391] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 7289,
+    "totalMB": 15850
+  },
+  "storage": {
+    "freeMB": 363841,
+    "totalMB": 958314
+  }
+}
+[30.09.2026, 22:42:57,395] [info] (IpcSecurity) Event sent desktop:application:refresh-data
+[30.09.2026, 22:42:57,396] [info] (IpcSecurity) Event sent desktop:application:refresh-data
+[30.09.2026, 22:42:57,497] [info] (Events) Event received desktop:authorization:get-passport-login
+[30.09.2026, 22:42:57,501] [info] (Events) Event received desktop:authorization:get-yandex-uid
+[30.09.2026, 22:42:57,502] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"passport-state-read","sessionId":"present","passportLogin":"present","cookieCount":1,"canonicalCookieCount":1}
+[30.09.2026, 22:42:57,553] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"authorization-decision","page":"product","token":"present","passportLogin":"present","tokenOwnerLogin":"missing","loginComparison":"unavailable","decision":"continue"}
+[30.09.2026, 22:42:57,704] [info] (Events) Event received desktop:application:ready
+[30.09.2026, 22:42:57,783] [info] (IpcSecurity) Event sent desktop:application:probability-bucket
+[30.09.2026, 22:42:57,785] [info] (Events) Event received desktop:application:theme
+[30.09.2026, 22:42:57,957] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"account-about","result":"authorized"}
+[30.09.2026, 22:42:57,959] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"authorization-decision","page":"product","token":"present","passportLogin":"present","tokenOwnerLogin":"present","loginComparison":"match","decision":"continue"}
+[30.09.2026, 22:42:58,200] [info] (Common) Request to https://desktop.app.music.yandex.net/stable/release-notes/en.json completed with status:  200
+[30.09.2026, 22:42:58,260] [info] (IpcSecurity) Event sent desktop:application:load-release-notes
+[30.09.2026, 22:42:58,764] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:42:59,397] [info] (Events) Event received desktop:player:state undefined false undefined
+[30.09.2026, 22:42:59,399] [info] (Events) Event received desktop:player:state undefined undefined true
+[30.09.2026, 22:42:59,935] [info] (Events) Event received desktop:player:state undefined true undefined
+[30.09.2026, 22:43:42,340] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:43:42,502] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:43:42,921] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 22:43:42,922] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 22:43:43,306] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:43:43,306] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:43:43,311] [info] (Events) Event received desktop:player:state undefined false undefined
+[30.09.2026, 22:43:43,312] [info] (Events) Event received desktop:player:state undefined undefined false
+[30.09.2026, 22:43:44,020] [info] (Events) Event received desktop:player:state undefined undefined true
+[30.09.2026, 22:43:44,065] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:43:44,065] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:43:44,311] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:43:44,312] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:43:44,487] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 22:43:44,488] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:43:44,488] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 22:43:49,609] [info] (Events) Event received desktop:player:state undefined true undefined
+[30.09.2026, 22:45:41,326] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:45:41,362] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:45:41,614] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:45:41,614] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:45:41,636] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:45:41,637] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:45:41,681] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 22:45:41,681] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:45:41,681] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 22:47:52,184] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:47:52,184] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:47:52,430] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:47:52,430] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:47:52,445] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:47:52,445] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:47:52,489] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 22:47:52,490] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:47:52,490] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 22:50:17,113] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 22:50:17,117] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 22:51:09,910] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 22:51:09,911] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:59:48,243] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 22:59:48,244] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 22:59:48,244] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 23:00:25,395] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:00:25,395] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:00:25,622] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:00:25,623] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:00:25,637] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:00:25,638] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:00:25,657] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 23:00:25,658] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:00:25,658] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 23:03:40,727] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:03:40,727] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:03:40,740] [info] (Events) Event received desktop:player:state undefined undefined false
+[30.09.2026, 23:03:40,995] [info] (Events) Event received desktop:player:state undefined undefined true
+[30.09.2026, 23:03:41,120] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:03:41,120] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:03:41,135] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:03:41,135] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:03:41,169] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 23:03:41,169] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:03:41,170] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 23:07:48,498] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:07:48,499] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:07:49,040] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:07:49,040] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:07:49,059] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:07:49,059] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:07:49,128] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 23:07:49,128] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:07:49,129] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 23:10:17,104] [info] (IpcSecurity) Event sent desktop:offline:refresh-tracks-availability
+[30.09.2026, 23:10:17,109] [info] (Events) Event received desktop:offline:tracks-availability-updated
+[30.09.2026, 23:11:25,532] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:11:25,568] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:11:25,791] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:11:25,791] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:11:25,804] [info] (Events) Event received desktop:player:state false undefined undefined
+[30.09.2026, 23:11:25,804] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:11:25,820] [info] (Events) Event received desktop:player:state true undefined undefined
+[30.09.2026, 23:11:25,821] [info] (AppSuspension) App suspension blocker is disabled
+[30.09.2026, 23:11:25,821] [info] (AppSuspension) App suspension blocker is enabled
+[30.09.2026, 23:12:57,442] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[30.09.2026, 23:12:57,491] [info] (UpdateLogger) Updater is inactive
+[01.10.2026, 12:09:53,555] [info] (CertificateVerification) certificate verification installed { sessionName: 'chromium' }
+[01.10.2026, 12:09:53,564] [info] (CertificateVerification) certificate verification installed { sessionName: 'updater' }
+[01.10.2026, 12:09:53,630] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"attempt-start","trigger":"app-start"}
+[01.10.2026, 12:09:53,803] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'chromium' }
+[01.10.2026, 12:09:53,806] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'updater' }
+[01.10.2026, 12:09:53,806] [info] (CertificateVerification) certificate transparency log list updated { version: '1.235', timestampMs: 1790201056000 }
+[01.10.2026, 12:09:53,811] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'chromium' }
+[01.10.2026, 12:09:53,814] [info] (CertificateVerification) certificate transparency logs updated { sessionName: 'updater' }
+[01.10.2026, 12:09:53,814] [info] (CertificateVerification) certificate transparency log list updated { version: '1.235', timestampMs: 1790201056000 }
+[01.10.2026, 12:09:54,553] [warn] (UpdateLogger) Logger inside "electron-updater" package APPIMAGE env is not defined, current application is not an AppImage
+[01.10.2026, 12:09:54,553] [info] (UpdateLogger) Updater is inactive
+[01.10.2026, 12:09:54,563] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 13769,
+    "totalMB": 15850
+  },
+  "storage": {
+    "freeMB": 359842,
+    "totalMB": 958314
+  }
+}
+[01.10.2026, 12:09:54,566] [info] (IpcSecurity) Event sent desktop:application:refresh-data
+[01.10.2026, 12:09:54,566] [info] (IpcSecurity) Event sent desktop:application:refresh-data
+[01.10.2026, 12:09:54,648] [info] (Events) Event received desktop:authorization:get-passport-login
+[01.10.2026, 12:09:54,650] [info] (Events) Event received desktop:authorization:get-yandex-uid
+[01.10.2026, 12:09:54,651] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"passport-state-read","sessionId":"present","passportLogin":"present","cookieCount":1,"canonicalCookieCount":1}
+[01.10.2026, 12:09:54,692] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"authorization-decision","page":"product","token":"present","passportLogin":"present","tokenOwnerLogin":"missing","loginComparison":"unavailable","decision":"continue"}
+[01.10.2026, 12:09:54,873] [info] (Events) Event received desktop:application:ready
+[01.10.2026, 12:09:54,911] [info] (IpcSecurity) Event sent desktop:application:probability-bucket
+[01.10.2026, 12:09:54,913] [info] (Events) Event received desktop:application:theme
+[01.10.2026, 12:09:55,255] [info] (Common) Request to https://desktop.app.music.yandex.net/stable/release-notes/en.json completed with status:  200
+[01.10.2026, 12:09:55,283] [info] (IpcSecurity) Event sent desktop:application:load-release-notes
+[01.10.2026, 12:10:04,718] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"account-about","result":"authorized"}
+[01.10.2026, 12:10:04,718] [info] (AuthDiagnostics) {"schemaVersion":1,"attemptId":1,"stage":"authorization-decision","page":"product","token":"present","passportLogin":"present","tokenOwnerLogin":"present","loginComparison":"match","decision":"continue"}
+[01.10.2026, 12:10:06,001] [info] (Events) Event received desktop:player:state false undefined undefined
+[01.10.2026, 12:10:19,626] [info] (Events) Event received desktop:player:state undefined false undefined
+[01.10.2026, 12:10:19,627] [info] (Events) Event received desktop:player:state undefined undefined false
+[01.10.2026, 12:10:20,356] [info] (Events) Event received desktop:player:state undefined undefined true
+[01.10.2026, 12:10:20,564] [info] (Events) Event received desktop:player:state undefined true undefined

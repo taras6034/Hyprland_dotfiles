@@ -8,7 +8,7 @@
     "group/gleft1" : {
         "orientation": "horizontal",
         "modules" : [
-            "battery", "cpu", "custom/sunset_brightness"
+            "battery", "cpu"
         ]
     },
 
@@ -29,7 +29,7 @@
     "group/gright2" : {
         "orientation": "horizontal",
         "modules" : [
-            "wireplumber",  "network"
+            "custom/sunset_brightness", "wireplumber",  "network"
         ]
     },
 
